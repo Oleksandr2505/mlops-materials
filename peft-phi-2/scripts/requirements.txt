@@ -1,0 +1,8 @@
+transformers==4.37.0
+peft<=0.6.2
+accelerate==0.26.1
+bitsandbytes==0.42.0
+safetensors>=0.4.1
+tokenizers>=0.14
+mlflow-skinny==2.6.0
+flash-attn==2.5.5
